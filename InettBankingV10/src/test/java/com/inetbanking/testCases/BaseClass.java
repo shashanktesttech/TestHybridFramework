@@ -11,7 +11,7 @@ public class BaseClass {
 
 	public String baseURL = "http://demo.guru99.com/V3/index.php";
 	public String username = "mngr165282";
-	public String password = "Enaqyqa";s
+	public String password = "Enaqyqa";
 	public static WebDriver driver;
 
 	public static Logger logger; // Adding logger
