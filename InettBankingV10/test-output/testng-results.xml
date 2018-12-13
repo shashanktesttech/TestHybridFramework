@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14519" started-at="2018-12-13T07:53:23Z" finished-at="2018-12-13T07:53:38Z">
+  <suite name="InettBankingV10" duration-ms="9631" started-at="2018-12-13T09:28:37Z" finished-at="2018-12-13T09:28:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14519" started-at="2018-12-13T07:53:23Z" finished-at="2018-12-13T07:53:38Z">
+    <test name="Banking App test" duration-ms="9631" started-at="2018-12-13T09:28:37Z" finished-at="2018-12-13T09:28:46Z">
       <class name="com.inetbanking.testCases.TC_LoginPage_001">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.inetbanking.testCases.TC_LoginPage_001@4883b407]" name="Setup" is-config="true" duration-ms="5790" started-at="2018-12-13T07:53:23Z" finished-at="2018-12-13T07:53:29Z">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.inetbanking.testCases.TC_LoginPage_001@4883b407]" name="Setup" is-config="true" duration-ms="3741" started-at="2018-12-13T09:28:37Z" finished-at="2018-12-13T09:28:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginPage_001@4883b407]" name="LoginTest" duration-ms="8011" started-at="2018-12-13T07:53:29Z" finished-at="2018-12-13T07:53:37Z">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginPage_001@4883b407]" name="LoginTest" duration-ms="5167" started-at="2018-12-13T09:28:40Z" finished-at="2018-12-13T09:28:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginPage_001@4883b407]" name="tearDown" is-config="true" duration-ms="670" started-at="2018-12-13T07:53:37Z" finished-at="2018-12-13T07:53:38Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginPage_001@4883b407]" name="tearDown" is-config="true" duration-ms="683" started-at="2018-12-13T09:28:45Z" finished-at="2018-12-13T09:28:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.inetbanking.testCases.TC_LoginPage_001 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Banking App test -->
+  </suite> <!-- InettBankingV10 -->
 </testng-results>
