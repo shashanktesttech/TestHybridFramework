@@ -4,15 +4,15 @@
 <suite name="InettBankingV10">
 
 	<test name="Banking App test">
+		<parameter name="browser" value="Chrome">
+			<classes>
 
-		<classes>
+				<class name="com.inetbanking.testCases.TC_LoginPage_001">
 
-			<class name="com.inetbanking.testCases.TC_LoginPage_001">
+				</class>
 
-			</class>
-
-		</classes>
-
+			</classes>
+		</parameter>
 	</test>
 
 </suite>

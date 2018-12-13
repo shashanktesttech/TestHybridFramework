@@ -43,4 +43,9 @@ public class ReadConfig {
 		String chromepath = pro.getProperty("chromepath");
 		return chromepath;
 	}
+
+	public String getFirefoxPath() {
+		String firefoxpath = pro.getProperty("Firefoxpath");
+		return firefoxpath;
+	}
 }
