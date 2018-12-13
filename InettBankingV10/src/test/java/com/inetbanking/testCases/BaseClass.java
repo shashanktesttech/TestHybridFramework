@@ -22,8 +22,8 @@ public class BaseClass {
 		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Driver/chromedriver.exe");
 		driver = new ChromeDriver();
 
-		logger = Logger.getLogger("Inetbanking");
-		PropertyConfigurator.configure(System.getProperty("user.dir")+ "//log4j.properties");
+		logger = Logger.getLogger("InettBankingV10");
+		PropertyConfigurator.configure("Log4j.properties");
 
 	}
 
